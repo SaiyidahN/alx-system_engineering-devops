@@ -1,2 +1,0 @@
-#!/ibin/bash
-head -n 3 lacta | tail -n 1
